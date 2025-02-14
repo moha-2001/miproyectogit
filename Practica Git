@@ -1,0 +1,82 @@
+
+2024-25 - DAW_MP05_RA4_Projecte_Git.txt
+------------------------------------------
+
+PROJECTE GIT
+-----------
+
++ Escenari - Esteu a la feina i el vostre cap us demana:
+
+"Un servidor GIT privat intern per a l'empresa."
+
+La solució ha d'incloure:
+
++ El Servidor GIT (en una Màquina Virtual).
++ Documentació Tècnica (seguint el format indicat al Moodle).
++ Dos Clients GIT per demostrar la solució funcionant
+  (en una Màquina Virtual diferent).
++ Les operacions que els clients han de mostrar són:
+  * Inicialització del Repositori.
+  * Status de la còpia de treball.
+  * Afegir fitxers a la còpia de treball.
+  * Eliminar fitxers de la còpia de treball.
+  * Enregistrar canvis de la còpia de treball al Repositori (commit).
+  * Afegir comentaris sobre els canvis.
+  * Creació i ús de diversos repositoris per diferents departaments.
+  * Creació i ús de noves branques de versió de programari.
+  * Fusió de 2 branques en una de sola.
+  * Afegir etiquetes a les versions.
+  * Afegir un repositori remot (per exemple, el que feu servir a Heroku).
++ En una de les màquines Git Client, instal·la Eclipse i:
+  * Configura'l per fer servir Git.
+  * Configura'l amb un repositori Git extern.
++ Identifica un repositori públic de GitHub i:
+  * Afegeix el repositori i clona'l (no cal fer canvis).
++ Les operacions s'han de mostrar de dues maneres:
+  * En format CLI (Command Line Interface)
+  * En format GUI (Graphical User Interface).
+  
+  
+Documentació tècnica
+---------------------
+Nom de l'alumne, email, data
+
+
+1. Descripció del problema
+
+2. Algorisme de la solució
+
+3. Diagrama de la solució
+
+   Mostrant l'arquitectura client - servidor.
+   Indiqueu IP, noms de màquines, Windows / Linux, OS Version, etc...
+
+4. Configuració de la solució
+
+   Configuracions de Git
+
+5. Screenshots de la solució funcionant
+
+   El gruix del document, on mostreu les comandes que heu fet servir,
+   sobretot, per el vostre projecte concret que esteu fent i com feu servir
+   Git, en mode text i en mode gràfic.
+
+
+*** El SO a la Màquina Virtual, el GIT i la Documentació Tècnica s'han de fer en English ***
+
+***  Data límit de lliurament: xxxx, xxx.03.2025 a les xx.00h  ***
+
++ Qualsevol dubte em podeu enviar un email.
+
+
+Al llibre de teoria de la nostra assignatura, Git s'explica en 3 escenaris:
+
+(1) Git en Local, fent servir línia de comandes.
+
+(2) Git en Local, fent servir Eclipse.
+
+(3) Git amb GitHub, fent servir Eclipse.
+
+Al nostre llibre de teoria explica aquestes comandes, pàgina 77, que podeu seguir.
+
+També podeu consultar qualsevol font que volgueu en Internet.
